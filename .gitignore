@@ -1,0 +1,26 @@
+# Xcode
+**/xcuserdata/
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/
+
+# Secrets
+WeatherApp/WeatherApp/Configuration/Secrets.swift
+
+# Superpowers (internal plans/specs)
+DOCS/superpowers/
+
+# OS
+.DS_Store
+**/.DS_Store
